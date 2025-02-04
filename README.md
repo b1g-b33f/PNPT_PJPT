@@ -5,7 +5,6 @@
 [f0xhunt Discord PNPT study group](https://www.youtube.com/watch?v=OZAqS6Tlb1I&list=PLbO7BO6s8UulWDfmLddfzvbL0SexsZEcy)
 
 # PJPT
-- This was my first study group and not as organized as the PNPT study group, but some great material and guests
 [f0xhunt PNPT Study group](https://www.youtube.com/watch?v=kfaZIZM_4Kc&list=PLbO7BO6s8UumifHrJkgeNCzYpxGfk_k8F)
 
 ### PEH_VM
