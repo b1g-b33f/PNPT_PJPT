@@ -55,4 +55,4 @@
 ## External cheatsheets and payloads
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
-- [HackTricks](https://hacktricks.boitatech.com.br/pentesting-web/web-vulnerabilities-methodology)
+- [HackTricks](https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html)
