@@ -6,8 +6,8 @@
 |              |           |           |              |
 |              |           |           |              |
 
-**Password complexity, lock out, Bruteforce protection, password reset**
-- 
+- [ ] Password complexity, lock out, Bruteforce protection, password reset:
+
 ## Enumeration
 - [ ] **ZAP scan, Burp scan, Nessus, Nikto**: 
 - [ ] **Fingerprint Technology**: Identify server type, version, and other technologies (e.g., WAF detection):
