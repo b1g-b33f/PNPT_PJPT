@@ -56,3 +56,4 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
 - [HackTricks](https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html)
+- [WAF Evasion](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
